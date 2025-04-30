@@ -2,3 +2,4 @@ flask
 torch
 ultralytics
 pillow
+opencv-python-headless
